@@ -1,0 +1,22 @@
+{
+  "name": "@zater-systems/style-guide",
+  "version": "1.0.0",
+  "description": "Style Guide for Zater Systems projects",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zater-systems/style-guide.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zater-systems/style-guide/issues"
+  },
+  "homepage": "https://github.com/zater-systems/style-guide#readme"
+}
