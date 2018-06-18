@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    // included by "strict": true
+    // "noImplicitAny": true,
+    // "noImplicitThis": true,
+    // "alwaysStrict": true,
+    // "strictNullChecks": true,
+    // "strictFunctionTypes": true,
+    // "strictPropertyInitialization": true,
+    // included by "strict": true
+
+    // configuration
+    "charset": "UTF-8",
+    "newLine": "LF",
+    "importHelpers": true, // configuration
+
+    // features
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "downlevelIteration": true, // features
+
+    // type checking
+    "strict": true,
+    "allowJs": false,
+    "allowSyntheticDefaultImports": false,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "forceConsistentCasingInFileNames": true,
+    "keyofStringsOnly": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noStrictGenericChecks": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "suppressExcessPropertyErrors": false,
+    "suppressImplicitAnyIndexErrors": false
+  }
+  // type checking
+}
