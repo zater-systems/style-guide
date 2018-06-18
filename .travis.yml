@@ -1,6 +1,7 @@
 language: node_js
 node_js:
 - node
+script:
 deploy:
 - provider: npm
   email: zater.systems@gmail.com
