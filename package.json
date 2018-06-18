@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/zater-systems/style-guide.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "MIT",
   "bugs": {
