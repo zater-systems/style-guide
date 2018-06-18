@@ -4,7 +4,7 @@
 
 ## Documenation
 
-[https://zater-systems.github.io/style-guide/](https://zater-systems.github.io/style-guide/)
+[https://zater-systems.github.io/style-guide/](https://zater-systems.github.io/style-guide/ )
 
 ## Setup
 
