@@ -26,7 +26,6 @@
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "forceConsistentCasingInFileNames": true,
-    "keyofStringsOnly": true,
     "noFallthroughCasesInSwitch": true,
     "noImplicitReturns": true,
     "noStrictGenericChecks": false,
