@@ -28,7 +28,7 @@ Create a `tsconfig.json` file:
 {
   "extends": "./node_modules/@zater-systems/style-guide/typescript/tsconfig.json",
   "compilerOptions": {
-    ...
+    // ...
   }
 }
 ```
@@ -49,7 +49,7 @@ Create a `tsconfig.json` file:
 {
   "extends": "./node_modules/@zater-systems/style-guide/typescript/tsconfig.json",
   "compilerOptions": {
-    ...
+    // ...
   }
 }
 ```
