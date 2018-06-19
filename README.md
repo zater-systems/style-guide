@@ -15,7 +15,7 @@ Common style guide and linting rules for Zater Systems projects.
 Install using NPM:
 
 ```bash
-npm install -D @zater-systems/style-guide
+npm install -D @zater-systems/style-guide typescript@~2.7.2 tslint tslint-angular codelyzer
 ```
 
 Install using Yarn:
