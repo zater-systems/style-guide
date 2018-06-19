@@ -47,6 +47,15 @@ Create a `tsconfig.json` file:
 }
 ```
 
+Create a `.prettierrc` file:
+
+```json
+{
+  "singleQuote": true,
+  "trailingComma": "all"
+}
+```
+
 ### General Typescript
 
 Create a `tslint.json` file:

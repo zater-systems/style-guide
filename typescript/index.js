@@ -1,6 +1,7 @@
 module.exports = {
   extends: ['tslint:all'],
   rules: {
+    quotemark: [true, 'single'],
     'member-access': true,
     typedef: [true, 'call-signature', 'arrow-call-signature'],
     'only-arrow-functions': false,
